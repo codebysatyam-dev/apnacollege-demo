@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository -demo
 <br>
-author - satyam
+author - satyam chourasiya
